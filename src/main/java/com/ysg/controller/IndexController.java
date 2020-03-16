@@ -13,4 +13,10 @@ public class IndexController {
 
     @GetMapping("/")
     public String index() {return "index";}
+
+    @GetMapping("/index")
+    public String greeting(@RequestParam(name="name", defaultValue="World") String name, Model model) {
+        model.addAttribute("name", name);
+        return "index";
+    }
 }
