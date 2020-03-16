@@ -2,12 +2,12 @@
 local code
 
 
-jQuery-File-Upload
-[a](https://github.com/blueimp/jQuery-File-Upload)
-uploadify
-[a](https://www.kancloud.cn/shuiyueju/uploadifycn/83083)
-Plupload
-[a](http://www.phpin.net/tools/plupload/)
+##前端上传插件
+[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
+
+[uploadify](https://www.kancloud.cn/shuiyueju/uploadifycn/83083)
+
+[Plupload](http://www.phpin.net/tools/plupload/)
 
 https://github.com/yanwei920623
 
